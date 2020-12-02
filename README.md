@@ -26,10 +26,10 @@ So, we pre-processed the data by by performing the following steps:
 
 ## Data Exploration
 We observed that the spam messages are generally longer than normal conversations. We also developed wordclouds for both the classes to observe which words occur more frequently in each class.
-![screenshots/capture3.png](screenshots/plot_images.png?raw=true)
-![screenshots/capture4.png](screenshots/plot_images.png?raw=true)
-![screenshots/capture5.png](screenshots/plot_images.png?raw=true)
-![screenshots/capture6.png](screenshots/plot_images.png?raw=true)
+![screenshots/capture3.png](screenshots/capture3.png?raw=true)
+![screenshots/capture4.png](screenshots/capture4.png?raw=true)
+![screenshots/capture5.png](screenshots/capture5.png?raw=true)
+![screenshots/capture6.png](screenshots/capture6.png?raw=true)
 
 ## Execution
 The project has a jupyter notebook [sms_spam_ham_classification.ipynb](https://github.com/utsav-195/sms-spam-ham-classification/blob/main/sms_spam_ham_classification.ipynb) which is used for the implementation of this project.
